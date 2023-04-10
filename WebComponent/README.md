@@ -1,5 +1,3 @@
-# AccountRegistry.AdminUI
-
 ## Installation
 
 To install the project's dependencies, run the following commands:
